@@ -1,7 +1,7 @@
 # DMGestureUnlockScreen
 
-      接口使用实例
-       switch (btn.tag) {
+   接口使用实例
+      switch (btn.tag) {
            case 0://设置数字解锁
                [DMGestureUnlockScreenVC setUnlockScreenWithType:ClickNumberType];
                break;
@@ -20,9 +20,9 @@
                break;
            default:
                break;
-           }
+          }
 
 
-           示例图如下：
+         示例图如下：
 
-           ![](https://github.com/wangdeming/DMGestureUnlockScreen/blob/master/DMGestureUnlockScreen.gif)
+         ![](https://github.com/wangdeming/DMGestureUnlockScreen/blob/master/DMGestureUnlockScreen.gif)
