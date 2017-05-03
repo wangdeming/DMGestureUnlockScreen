@@ -1,6 +1,6 @@
 # DMGestureUnlockScreen
 
-  接口使用实例
+ 接口使用实例
    switch (btn.tag) {
      case 0://设置数字解锁
          [DMGestureUnlockScreenVC setUnlockScreenWithType:ClickNumberType];
